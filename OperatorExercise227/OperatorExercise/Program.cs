@@ -27,8 +27,8 @@ namespace OperatorExercise
         public static double AreaOfACircle(double r)
         {
             double pi = 3.14;
-            double anwer = pi * r * r;
-            return anwer;        
+            double answer = pi * r * r;
+            return answer;        
 
         }
 
