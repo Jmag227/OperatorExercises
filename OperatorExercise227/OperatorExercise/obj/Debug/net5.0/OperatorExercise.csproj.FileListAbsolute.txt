@@ -1,0 +1,16 @@
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\OperatorExercise227\OperatorExercise\bin\Debug\net5.0\OperatorExercise.exe
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\OperatorExercise227\OperatorExercise\bin\Debug\net5.0\OperatorExercise.deps.json
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\OperatorExercise227\OperatorExercise\bin\Debug\net5.0\OperatorExercise.runtimeconfig.json
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\OperatorExercise227\OperatorExercise\bin\Debug\net5.0\OperatorExercise.runtimeconfig.dev.json
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\OperatorExercise227\OperatorExercise\bin\Debug\net5.0\OperatorExercise.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\OperatorExercise227\OperatorExercise\bin\Debug\net5.0\ref\OperatorExercise.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\OperatorExercise227\OperatorExercise\bin\Debug\net5.0\OperatorExercise.pdb
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\OperatorExercise227\OperatorExercise\obj\Debug\net5.0\OperatorExercise.csproj.AssemblyReference.cache
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\OperatorExercise227\OperatorExercise\obj\Debug\net5.0\OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\OperatorExercise227\OperatorExercise\obj\Debug\net5.0\OperatorExercise.AssemblyInfoInputs.cache
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\OperatorExercise227\OperatorExercise\obj\Debug\net5.0\OperatorExercise.AssemblyInfo.cs
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\OperatorExercise227\OperatorExercise\obj\Debug\net5.0\OperatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\OperatorExercise227\OperatorExercise\obj\Debug\net5.0\OperatorExercise.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\OperatorExercise227\OperatorExercise\obj\Debug\net5.0\ref\OperatorExercise.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\OperatorExercise227\OperatorExercise\obj\Debug\net5.0\OperatorExercise.pdb
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\OperatorExercise227\OperatorExercise\obj\Debug\net5.0\OperatorExercise.genruntimeconfig.cache
